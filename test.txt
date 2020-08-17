@@ -1,0 +1,4 @@
+1. git clone + github repository ip address: download repository to local (only do once)
+2. git add filename.ext (ex. git add test.txt or git add .) : after modification, use git add with file name to add to tmp 
+3, git commit -m "message" : save to tmp location
+4. git push        :  push to remote    
